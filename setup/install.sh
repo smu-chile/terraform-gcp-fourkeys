@@ -72,7 +72,7 @@ wait
 echo "••••••••🔑••🔑••🔑••🔑••••••••"
 echo "Invoking Terraform on project ${FOURKEYS_PROJECT}…"
 
-terraform apply --auto-approve
+terraform apply 
 
 echo "Terraform resource creation complete."
 echo "••••••••🔑••🔑••🔑••🔑••••••••"

@@ -1,0 +1,25 @@
+Script started on Thu Aug 18 16:37:24 2022
+[1m[7m%[27m[1m[0m                                                                                                ]2;cvergarae@MacBook-Pro-de-administrador-7:~/Proyectos/polimatas/terraform-gcp-fourkeys/setup]1;..ourkeys/setup]633;D]633;P;Cwd=/Users/cvergarae/Proyectos/polimatas/terraform-gcp-fourkeys/setup[0m[27m[24m[J]633;A[01;32m➜  [36msetup[00m [01;34mgit:([31msmu-setup[34m) [33m✗[00m ]633;B[K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls]633;C]633;E;lsREADME.md                 [31minstall.sh[39;49m[0m                resource_event_handler.tf
+READMEv2.md               main.tf                   resource_parsers.tf
+[1m[36mdashboard[39;49m[0m                 new_source.sh             setup.log
+[1m[36mdata_parser[39;49m[0m               outputs.tf                [31msetup.sh[39;49m[0m
+[1m[36mdeprecated[39;49m[0m                providers.tf              typescript
+events_raw_schema.json    resource_bigquery.tf      variables.tf
+[1m[36mfourkeys-builder[39;49m[0m          resource_dashboard.tf
+[1m[7m%[27m[1m[0m                                                                                                ]2;cvergarae@MacBook-Pro-de-administrador-7:~/Proyectos/polimatas/terraform-gcp-fourkeys/setup]1;..ourkeys/setup]633;D;0]633;P;Cwd=/Users/cvergarae/Proyectos/polimatas/terraform-gcp-fourkeys/setup[0m[27m[24m[J]633;A[01;32m➜  [36msetup[00m [01;34mgit:([31msmu-setup[34m) [33m✗[00m ]633;B[K[?1h=[?2004hsscript setup.. log[1m [0m[0m -c ./setup.sh[1m [0m[0m [?1l>[?2004l
+]2;script setup.log -c ./setup.sh]1;script]633;C]633;E;script setup.log -c ./setup.shScript started, output file is setup.log
+script: -c: No such file or directory
+
+Script done, output file is setup.log
+[1m[7m%[27m[1m[0m                                                                                                ]2;cvergarae@MacBook-Pro-de-administrador-7:~/Proyectos/polimatas/terraform-gcp-fourkeys/setup]1;..ourkeys/setup]633;D;15]633;P;Cwd=/Users/cvergarae/Proyectos/polimatas/terraform-gcp-fourkeys/setup[0m[27m[24m[J]633;A[01;31m➜  [36msetup[00m [01;34mgit:([31msmu-setup[34m) [33m✗[00m ]633;B[K[?1h=[?2004hscript setup.log -c ./setup.sh[30Dls                            [28Dscriptls    script setup.log -c ./setup.sh[30D                              [30Dsse
+[0mSetFile     sed         select      seq         servertool  setopt      setuids.d             
+security    seeksize.d  sendmail    serialver   set         setquota                        
+[Jsecurityd   [Jsegedit     [Jsentinel    [Jserverinfo  [Jsetkey      [Jsetregion   [J                    [3A[0m[27m[24m[31Cse[K  ../setup.sh[1m [0m[0m [?1l>[?2004l
+[J]2;./setup.sh]1;./setup.sh]633;C]633;E;./setup.sh
+Four Keys requires a Google Cloud project with billing enabled.
+If you don't have a suitable project, exit this installer and create a project.
+Enter the project ID for Four Keys installation (ex: 'my-project'): 	cl-fourkeys^[b^[b^C
+[1m[7m%[27m[1m[0m                                                                                                ]2;cvergarae@MacBook-Pro-de-administrador-7:~/Proyectos/polimatas/terraform-gcp-fourkeys/setup]1;..ourkeys/setup]633;D;130]633;P;Cwd=/Users/cvergarae/Proyectos/polimatas/terraform-gcp-fourkeys/setup[0m[27m[24m[J]633;A[01;31m➜  [36msetup[00m [01;34mgit:([31msmu-setup[34m) [33m✗[00m ]633;B[K[?1h=[?2004hppwd[?1l>[?2004l
+]2;pwd]1;pwd]633;C]633;E;pwd/Users/cvergarae/Proyectos/polimatas/terraform-gcp-fourkeys/setup
+[1m[7m%[27m[1m[0m                                                                                                ]2;cvergarae@MacBook-Pro-de-administrador-7:~/Proyectos/polimatas/terraform-gcp-fourkeys/setup]1;..ourkeys/setup]633;D;0]633;P;Cwd=/Users/cvergarae/Proyectos/polimatas/terraform-gcp-fourkeys/setup[0m[27m[24m[J]633;A[01;32m➜  [36msetup[00m [01;34mgit:([31msmu-setup[34m) [33m✗[00m ]633;B[K[?1h=[?2004h

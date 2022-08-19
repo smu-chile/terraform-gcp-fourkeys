@@ -6,6 +6,14 @@ terraform {
       version = "4.18.0"
     }
   }
+
+  cloud {
+    organization = "smu-chile"
+
+    workspaces {
+      name = "gcp-fourkeys"
+    }
+  }
 }
 
 resource "google_project_service" "run_api" {
