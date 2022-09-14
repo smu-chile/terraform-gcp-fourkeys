@@ -167,3 +167,6 @@ backend.tf
 
 .idea
 *.iml
+
+/sandbox
+/sandbox/**
